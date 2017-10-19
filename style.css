@@ -83,3 +83,7 @@ section {
   color: #FFF;
 }
 
+@media (max-width: 960px) {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
